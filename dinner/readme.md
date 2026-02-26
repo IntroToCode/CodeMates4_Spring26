@@ -56,4 +56,4 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s): 
-- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Ayoung Cho(template), Missy (servings), Sebastian Bardacosta (Title and description)
+- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Ayoung Cho(template), Missy (drinks pairing), Sebastian Bardacosta (Title and description)
