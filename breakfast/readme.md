@@ -15,9 +15,6 @@ The New York Times states, "These cocoa-infused crepes are delicious rolled up a
 | Difficulty | Medium |
 | Spice Level | 0 |
 | Tags | sweet, celebratory, French, breakfast |
-| Spice Level | 🌶️
-| Tags | sweet, celebratory, French |
-
 
 ### Ingredients:
 - ½ cup milk (1%, 2% or whole)
@@ -45,4 +42,3 @@ To ensure you have the correct pan size, be sure to measure the diameter of the 
 ### Author(s):
 
 Zaynab Issa (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description), Sofi (tag)
-Zaynab Issa (Original), Missy Martin , Yujin Jeong (Spice level)
