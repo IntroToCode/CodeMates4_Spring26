@@ -4,7 +4,7 @@
 
 The New York Times states, "These cocoa-infused crepes are delicious rolled up and eaten as-is, but for a more celebratory dessert, dress them up with your choice of chocolate-hazelnut spread, whipped cream, powdered sugar and berries." This breakfast item is a unique twist on a classic breakfast from French, bringing joy to so many people! 
 
-## Stats
+## Stats 🌶️
 
 | Field | Info |
 |-------|------|
@@ -40,4 +40,4 @@ To ensure you have the correct pan size, be sure to measure the diameter of the 
 
 ### Author(s):
 
-Zaynab Issa (Original), Missy Martin
+Zaynab Issa (Original), Missy Martin , Yujin Jeong (Spicy level)
