@@ -41,4 +41,4 @@ To ensure you have the correct pan size, be sure to measure the diameter of the 
 
 ### Author(s):
 
-Zaynab Issa (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description), Sofi (tag)
+Zaynab Issa (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (added recipe), Sebastian Bardacosta (Title and description), Sofi (tag)
