@@ -12,6 +12,7 @@ Very cool Roasted Organic Chicken
 | Total Time | 1 hour 30 mins
 | Servings | 8-12
 | Difficulty | Medium
+| Spice level | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
 | Tags | #Organic #Chicken #Roast 
 
 ### Ingredients:
@@ -37,8 +38,6 @@ Very cool Roasted Organic Chicken
 ### Notes:
 - For extra flavor, tuck small pieces of butter and herbs under the skin of the breast before roasting.
 - Save the carcass to make an organic bone broth for future recipes!
-
-### Spice level: 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
 
 ### Author(s):
 - Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description), Sofi (typo)
