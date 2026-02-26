@@ -23,6 +23,7 @@
 - 6 sprigs fresh thyme
 - 2 tsp sea salt
 - 1 tsp cracked black pepper
+- 10 HABANERO CHILLIS 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
 
 ### Steps for preparation:
 - Preheat: Set your oven to 218°C (425°F).
@@ -36,6 +37,7 @@
 - For extra flavor, tuck small pieces of butter and herbs under the skin of the breast before roasting.
 - Save the carcass to make an organic bone broth for future recipes!
 
+### Spice level: 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
 
 ### Author(s):
 - Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description), Sofi (typo)
