@@ -15,6 +15,7 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 | Total Time | 40 minutes |
 | Servings | 8 |
 | Difficulty | Easy |
+| Spice Level | 🌶️🌶️🌶️
 | Tags | vegetarian, quick, good for large groups|
 
 <!-- Note the fields in the markdown table -->
@@ -53,8 +54,6 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 - The dish is vegan as written, but should you choose to top your bowl with a showering of grated pecorino or Parmesan, it would most likely work well in your favor.
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-
-### Spice level: 🌶️🌶️🌶️
 
 ### Author(s): 
 - Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Ayoung Cho(template), Missy (servings), Sebastian Bardacosta (Title and description)
