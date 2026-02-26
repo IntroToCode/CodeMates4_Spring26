@@ -42,4 +42,4 @@ To ensure you have the correct pan size, be sure to measure the diameter of the 
 
 ### Author(s):
 
-Zaynab Issa (Original), Missy Martin , Yujin Jeong (Spicy level)
+Zaynab Issa (Original), Missy Martin , Yujin Jeong (Spice level)
