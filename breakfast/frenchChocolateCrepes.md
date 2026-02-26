@@ -38,6 +38,8 @@ The New York Times states, "These cocoa-infused crepes are delicious rolled up a
 
 To ensure you have the correct pan size, be sure to measure the diameter of the base of the pan.
 
+### Spice level: 0.
+
 ### Author(s):
 
-Zaynab Issa (Original), Missy Martin
+Zaynab Issa (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description), Sofi (typo)
