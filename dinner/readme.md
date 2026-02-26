@@ -4,8 +4,6 @@
 
 This hearty, flexible stew comes together with pantry ingredients and delivers layers of flavors. While this stew is lovely on its own, you could also add wilt-able greens such as kale, escarole or Swiss chard at the end, and toasted bread crumbs on top.
 
-<!-- add 1-2 sentences about the descriptions  -->
-
 ## Stats
 
 | Field | Info |
@@ -17,8 +15,6 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 | Difficulty | Easy |
 | Spice Level | 🌶️🌶️🌶️
 | Tags | vegetarian, quick, good for large groups|
-
-<!-- Note the fields in the markdown table -->
 
 ### Ingredients:
 - [ ] 1 cup roughly chopped Italian parsley leaves and tender stems
@@ -36,10 +32,6 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 - [ ] Toasted bread, for serving
 - [ ] 1 spoon of Mild Valentina Sauce 🌶️🌶️🌶️
 
-
-      
-<!-- List every ingredient -->
-
 ### Steps for preparation:
 
 1. Heat the oven to 425 degrees. In a small bowl, gently toss together the parsley and lemon zest with your hands until well combined; set aside.
@@ -47,13 +39,12 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 3. When the tomatoes are almost done roasting, heat 4 tablespoons oil in a large (12-inch), deep skillet or Dutch oven over medium. Add the onion, garlic and red-pepper flakes and cook until the onion is softened and the garlic is fragrant, 4 to 5 minutes. Stir in the rinsed beans and broth and bring to a simmer. With the back of a spoon or spatula, gently smash about ½ cup of the beans so they slightly thicken the broth. If you want a thicker stew, crush some more of the beans. Season with salt and pepper.
 4. When the tomatoes are finished roasting, add them directly to the stew along with any juices that have been released. Simmer for 5 to 10 minutes more so the flavors become friendly; season to taste with salt.
 5. Ladle into shallow bowls. Top each serving with some of the lemon-parsley mixture and drizzle with more olive oil, and season with flaky salt, if you like. Serve with toasted bread.
-   
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+
+### Beverage Pairing 
+A warm stew goes best with a red wine. The best pairing is a Syrah red wine. For sourcing the best Syrah, contact the Haas Wine Club for free samples.  
 
 ### Notes:
 - The dish is vegan as written, but should you choose to top your bowl with a showering of grated pecorino or Parmesan, it would most likely work well in your favor.
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-
 ### Author(s): 
-- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Ayoung Cho(template), Missy (drinks pairing), Sebastian Bardacosta (Title and description)
+- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Missy (drink pairing), Sebastian Bardacosta (improved beverage pairing), Ayoung Cho (Servings) 

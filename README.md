@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: 
-- Lunch: 
-- Dinner: White Bean and Tomato Stew
+- Breakfast: [Chocolate Crepes](breakfast/readme.md)
+- Lunch: [Roasted Organic Chicken](lunch/roastedOrganicChicken.md)
+- Dinner: [White Bean and Tomato Stew](dinner/readme.md)
 
 _Notes_
 __
