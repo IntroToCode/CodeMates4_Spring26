@@ -33,6 +33,7 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 - [ ] 3 cups vegetable or chicken broth, or water
 - [ ] Flaky salt, for serving (optional)
 - [ ] Toasted bread, for serving
+- [ ] 1 spoon of Mild Valentina Sauce 🌶️🌶️🌶️
 
 
       
@@ -53,5 +54,7 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
+### Spice level: 🌶️🌶️🌶️
+
 ### Author(s): 
-- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients)
+- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Ayoung Cho(template), Missy (servings), Sebastian Bardacosta (Title and description)
