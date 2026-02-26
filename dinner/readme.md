@@ -13,6 +13,7 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 | Total Time | 40 minutes |
 | Servings | 8 |
 | Difficulty | Easy |
+| Spice Level | 🌶️🌶️🌶️
 | Tags | vegetarian, quick, good for large groups|
 
 ### Ingredients:
@@ -29,6 +30,7 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 - [ ] 3 cups vegetable or chicken broth, or water
 - [ ] Flaky salt, for serving (optional)
 - [ ] Toasted bread, for serving
+- [ ] 1 spoon of Mild Valentina Sauce 🌶️🌶️🌶️
 
 ### Steps for preparation:
 

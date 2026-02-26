@@ -1,6 +1,7 @@
 # Organic Roasted Chicken
 
-## Very cool Roasted Organic Chicken
+## Description
+Very cool Roasted Organic Chicken
 
 ## Stats
 
@@ -11,7 +12,8 @@
 | Total Time | 1 hour 30 mins
 | Servings | 8-12
 | Difficulty | Medium
-| Tags | #Organic #Chicken #Roast #Delicious
+| Spice level | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
+| Tags | #Organic #Chicken #Roast 
 
 ### Ingredients:
 - 2 (8 lb) whole organic chicken
@@ -23,6 +25,7 @@
 - 6 sprigs fresh thyme
 - 2 tsp sea salt
 - 1 tsp cracked black pepper
+- 10 HABANERO CHILLIS 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
 
 ### Steps for preparation:
 - Preheat: Set your oven to 218°C (425°F).
@@ -35,7 +38,6 @@
 ### Notes:
 - For extra flavor, tuck small pieces of butter and herbs under the skin of the breast before roasting.
 - Save the carcass to make an organic bone broth for future recipes!
-
 
 ### Author(s):
 - Carlos Teryaki (Original), Ayoung Cho(template), Yujin Jeong (ingredients), Missy (servings), Sebastian Bardacosta (Title and description), Sofi (typo)
