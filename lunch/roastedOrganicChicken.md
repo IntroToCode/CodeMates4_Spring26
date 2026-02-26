@@ -11,7 +11,7 @@
 | Total Time | 1 hour 30 mins
 | Servings | 8-12
 | Difficulty | Medium
-| Tags | #Organic #Chicken #Roast 
+| Tags | #Organic #Chicken #Roast #Delicious
 
 ### Ingredients:
 - 2 (8 lb) whole organic chicken
