@@ -4,7 +4,7 @@
 
 The New York Times states, "These cocoa-infused crepes are delicious rolled up and eaten as-is, but for a more celebratory dessert, dress them up with your choice of chocolate-hazelnut spread, whipped cream, powdered sugar and berries." This breakfast item is a unique twist on a classic breakfast from French, bringing joy to so many people! 
 
-## Stats 🌶️
+## Stats 
 
 | Field | Info |
 |-------|------|
@@ -13,7 +13,9 @@ The New York Times states, "These cocoa-infused crepes are delicious rolled up a
 | Total Time | 25 minutes |
 | Servings | 2-3 |
 | Difficulty | Medium |
+| Spice Level | 🌶️
 | Tags | sweet, celebratory, French |
+
 
 ### Ingredients:
 - ½ cup milk (1%, 2% or whole)
