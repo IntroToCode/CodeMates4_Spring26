@@ -39,10 +39,10 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
 5. Ladle into shallow bowls. Top each serving with some of the lemon-parsley mixture and drizzle with more olive oil, and season with flaky salt, if you like. Serve with toasted bread.
 
 ### Beverage Pairing 
-A warm stew goes best with a red wine. The best pairing is a Syrah. For sourcing the best Syrah, contact the Haas Wine Club for free samples. 
+A warm stew goes best with a red wine. The best pairing is a Syrah red wine. For sourcing the best Syrah, contact the Haas Wine Club for free samples.  
 
 ### Notes:
 - The dish is vegan as written, but should you choose to top your bowl with a showering of grated pecorino or Parmesan, it would most likely work well in your favor.
 
 ### Author(s): 
-- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Missy (drink pairing) 
+- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients), Missy (drink pairing), Sebastian Bardacosta (improved beverage pairing), Ayoung Cho (Servings) 
