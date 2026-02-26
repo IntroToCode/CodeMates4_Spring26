@@ -48,10 +48,15 @@ This hearty, flexible stew comes together with pantry ingredients and delivers l
    
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
+### Beverage:
+Best paired with a Swiss Miss hot chocolate, mini marshmallows recommended!
+
+<!-- add a beverage that this should be drank with. -->
+
 ### Notes:
 - The dish is vegan as written, but should you choose to top your bowl with a showering of grated pecorino or Parmesan, it would most likely work well in your favor.
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s): 
-- Sofi Trexler, Yujin Jeong (Doubled servings/ingredients)
+- Sofi Trexler (recipe and beverage), Yujin Jeong (Doubled servings/ingredients)
